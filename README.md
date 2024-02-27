@@ -49,8 +49,10 @@ Groups invoice lines by country and genre, counts the number of purchases for ea
 Top Spending Customers by Country:
 Finds the customer that has spent the most on music for each country.
 Groups invoices by customer and country, calculates the total spending for each customer in each country, and selects the top spender for each country.
-These SQL queries cover a wide range of analyses, including identifying top performers, understanding customer behavior, and determining popular music genres. They provide valuable insights into the music store database.
 
 Conclusion:
+These SQL queries cover a wide range of analyses, including identifying top performers, understanding customer behavior, 
+and determining popular music genres. 
+They provide valuable insights into the music store database.
 Analyzing the music store database provides valuable insights that can inform business decisions, marketing strategies, 
 and customer engagement initiatives. 
